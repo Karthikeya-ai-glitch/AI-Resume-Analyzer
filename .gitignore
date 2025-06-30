@@ -1,0 +1,5 @@
+venvapp/
+__pycache__/
+*.pyc
+Uploaded_Resumes/*
+*.DS_Store

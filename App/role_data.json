@@ -1,0 +1,46 @@
+  {
+    "programming": [
+      "python", "java", "c++", "javascript", "typescript", "ruby", "go", "c", "rust", "swift", "kotlin"
+    ],
+    "data_science": [
+      "machine learning", "deep learning", "nlp", "data analysis", "data visualization",
+      "pandas", "numpy", "scikit-learn", "tensorflow", "keras", "matplotlib", "seaborn", "powerbi"
+    ],
+    "web_development": [
+      "html", "css", "javascript", "react", "vue", "angular", "node.js", "express", "django", "flask", "bootstrap", "next.js"
+    ],
+    "cloud": [
+      "aws", "azure", "gcp", "google cloud", "docker", "kubernetes", "heroku", "firebase", "cloud functions", "lambda"
+    ],
+    "database": [
+      "mysql", "postgresql", "mongodb", "sqlite", "oracle", "redis", "snowflake", "bigquery"
+    ],
+    "devops": [
+      "jenkins", "git", "github", "gitlab", "ci/cd", "ansible", "terraform", "prometheus", "grafana", "circleci", "kustomize"
+    ],
+    "product_management": [
+      "roadmapping", "product strategy", "agile", "scrum", "kanban", "jira", "confluence", "market research", 
+      "competitive analysis", "wireframing", "user stories", "MVP planning", "stakeholder management"
+    ],
+    "business_analysis": [
+      "requirement gathering", "gap analysis", "SWOT analysis", "business case", "UML", 
+      "process modeling", "stakeholder analysis", "excel", "sql", "data storytelling"
+    ],
+    "cybersecurity": [
+      "network security", "penetration testing", "vulnerability assessment", "firewalls", 
+      "siem", "ids/ips", "ethical hacking", "kali linux", "metasploit", "nmap"
+    ],
+    "mobile_development": [
+      "android", "ios", "react native", "flutter", "swift", "kotlin", "firebase", 
+      "mobile ui", "push notifications", "app store", "play store", "expo"
+    ],
+    "ui_ux_design": [
+      "user research", "wireframing", "prototyping", "figma", "adobe xd", "sketch", "invision", 
+      "design systems", "accessibility", "interaction design", "information architecture"
+    ],
+    "soft_skills": [
+      "communication", "teamwork", "leadership", "problem solving", "adaptability", 
+      "creativity", "time management", "critical thinking", "presentation skills", "negotiation"
+    ]
+  }
+

@@ -1,0 +1,6 @@
+streamlit
+pyresparser
+spacy
+pdfminer3k
+nltk
+pandas
